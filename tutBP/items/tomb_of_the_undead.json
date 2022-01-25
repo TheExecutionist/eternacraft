@@ -6,7 +6,7 @@
     },
     "components": {
       "minecraft:entity_placer": {
-        "entity": eternacraft:spawned_skeleton
+        "entity": "eternacraft:spawned_skeleton"
       },
       "minecraft:cooldown": {
         "float": 10.0
