@@ -8,7 +8,7 @@
         "default": "skeleton"
       },
       "textures": {
-        "default": "textures/entity/skeleton/skeleton"
+        "default": "textures/entity/skeleton"
       },
       "geometry": {
         "default": "geometry.skeleton.v1.8"
