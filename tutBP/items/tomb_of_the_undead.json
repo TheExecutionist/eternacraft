@@ -1,0 +1,26 @@
+{
+  "format_version": "1.16.1",
+  "minecraft:item": {
+    "description": {
+      "identifier": "eternacraft:tomb_of_the_undead"
+    },
+    "components": {
+      "minecraft:entity_placer": {
+        "entity": eternacraft:spawned_skeleton
+      },
+      "minecraft:cooldown": {
+        "float": 10.0
+      },
+      "minecraft:on_use": {
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:icon": {
+        "texture": "tomb_of_the_undead"
+      },
+      "minecraft:hand_equipped": true,
+      "minecraft:display_name": {
+        "value": "Tomb of The Undead"
+      }
+    }
+  }
+}
