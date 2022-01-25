@@ -14,7 +14,7 @@
         "default": "geometry.skeleton.v1.8"
       },
       "spawn_egg": {
-        "texture": "spawn_egg",
+        "texture": "tomb_of_the_undead",
         "texture_index": 9
       },
       "scripts": {
