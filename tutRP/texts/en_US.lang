@@ -1,2 +1,4 @@
 entity.tc:endspider.name=EndSpider
 item.spawn_egg.entity.tc:endspider.name=EndSpider
+entity.eternacraft:spawned_skeleton.name=Skeleton
+item.spawn_egg.entity.eternacraft:spawned_skeleton.name=Skeleton
